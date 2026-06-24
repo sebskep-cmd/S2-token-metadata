@@ -2,13 +2,18 @@
   "name": "S squared",
   "symbol": "S²",
   "description": "Jeton officiel S² (Solana Square). Un projet axé sur la clarté géométrique, la structure et le développement communautaire sur la blockchain Solana.",
-  "image": "https://tonlienverslogo.com/s2.png",
-  "decimals": 6,
-  "tags": ["Solana", "Fluxbeam", "Meteora", "Community", "Geometry"],
-  "extensions": {
-    "website": "https://tonsite.com",
-    "twitter": "https://twitter.com/toncompte",
-    "telegram": "https://t.me/toncanal",
-    "discord": "https://discord.gg/tonserveur"
+  "image": "https://raw.githubusercontent.com/sebskep-cmd/S2-token-metadata/main/S%C2%B2%20(S%20Squared).png",
+  "attributes": [
+    { "trait_type": "Project", "value": "Solana Square" },
+    { "trait_type": "Category", "value": "Community Token" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/sebskep-cmd/S2-token-metadata/main/S%C2%B2%20(S%20Squared).png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
   }
 }
